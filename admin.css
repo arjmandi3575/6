@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ img{
+margin: 0 auto;
+ }
+ button{
+   
+    height: 4rem;
+ }
+ .icon{
+    display: flex;
+    flex-direction: row-reverse;
+    
+ }
+ svg{
+    margin-top: 0.85rem;
+    margin-left: 1rem;
+    width: 4rem;
+    height: 1.35rem;
+ }
